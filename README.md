@@ -1,4 +1,4 @@
 # YSDA_RL_Course
 
-## Some homework solutions for yandex data school open RL course.
-## [https://github.com/yandexdataschool/Practical_RL]
+## Some homework solutions for Yandex School of Data Analysis open RL course.
+(Course github link)[https://github.com/yandexdataschool/Practical_RL]
