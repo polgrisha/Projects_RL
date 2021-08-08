@@ -1,5 +1,3 @@
-# YSDA_RL_Course
+# Projects_RL
 
-## Some homework solutions <br/> for Yandex School of Data Analysis open RL course <br/> and YSDA-based MIPT RL course
-
-[Course github link](https://github.com/yandexdataschool/Practical_RL)
+### Some RL projects, <br/> homeworks for Yandex School of Data Analysis [open RL course](https://github.com/yandexdataschool/Practical_RL) <br/> and YSDA-based MIPT RL course
